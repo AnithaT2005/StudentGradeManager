@@ -4,9 +4,14 @@ A Java-based GUI application to manage student records.
 
 ## Features
 
-- Add, update, and delete student details  
-- Calculate averages and assign grades  
-- Save and load data from CSV files  
+- Admin and student login
+- Add, update, and delete student details
+- Manage subjects(Add and delete) and marks
+- Search student by name/register number
+- Auto calculate averages and assign grades
+- Show top 3 students as well as failed students 
+- Save and load data from CSV files
+- Input validation and Duplicate checks  
 - User-friendly interface using Java Swing  
 
 ## How to Run
